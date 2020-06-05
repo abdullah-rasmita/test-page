@@ -1,1 +1,3 @@
-# Equation 1
+# Equation2
+
+{% include lib/mathjax.html %}
