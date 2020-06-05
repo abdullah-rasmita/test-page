@@ -1,5 +1,4 @@
-layout: post
-mathjax: true
+markdown: maruku
 theme: jekyll-theme-leap-day
 title: Welcome to test page 
 description: This is a testing page for my github page
