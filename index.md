@@ -1,5 +1,8 @@
-
-{% include mathjax_support.html %}
+---
+title: Hello
+layout: post
+use-math: true
+---
 
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
