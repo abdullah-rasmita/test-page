@@ -1,4 +1,5 @@
-# Equation
+{% include mathjax.html %}
+# Equation 1
 $$
 M = \left( \begin{array}{ccc}
 x_{11} & x_{12} & \ldots \\
