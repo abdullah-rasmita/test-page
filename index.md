@@ -10,4 +10,4 @@ $$
 
 ## End
 
-{% include mathjax.html %}
+{% include lib/mathjax.html %}
