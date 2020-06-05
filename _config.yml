@@ -1,4 +1,9 @@
-markdown: maruku
-description: Testing
+lang: it
+
+description: la mia tesi di laurea
+keywords:
+  - geometria
+  - frattale
+
 exclude:
   - README.md
