@@ -1,4 +1,4 @@
-# Hello world
+# Equation
 $$
 M = \left( \begin{array}{ccc}
 x_{11} & x_{12} & \ldots \\
