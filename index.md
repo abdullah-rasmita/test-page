@@ -1,5 +1,5 @@
 
-{% include mathjax.html %}
+{% include mathjax_support.html %}
 
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
