@@ -1,14 +1,11 @@
 <!DOCTYPE html>
-{% if site.lang %}
-  <html lang="{{ site.lang }}">
-{% else %}
-  <html lang="en">
-{% endif %}
-<head>
-</head>
-<body>
-
-  <main>{{ content }}</main>
-
-</body>
+<html>
+  <head>
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
+  </head>
+  <body>
+    {{ content }}
+  </body>
 </html>
